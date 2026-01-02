@@ -57,7 +57,7 @@
         </div>
 
         <!-- Demo Credentials Box -->
-        <div class="demo-credentials">
+        <!-- <div class="demo-credentials">
             <h3>Demo Credentials</h3>
             <div class="demo-item">
                 <strong>Admin:</strong>
@@ -67,7 +67,7 @@
                 <strong>Employee:</strong>
                 <span>employee@rems.com / emp123</span>
             </div>
-        </div>
+        </div> -->
     </div>
 </body>
 </html>
